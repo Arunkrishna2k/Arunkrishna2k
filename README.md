@@ -28,21 +28,20 @@ I'm constantly looking to expand my knowledge and currently focused on mastering
 ### 🚀 Projects & Contributions
 I love working on projects that automate workflows and optimize cloud infrastructure. Some of my notable projects include:
 
-- **[Project Name]**: Description of what it does, technologies used, and your role.
-- **[Project Name]**: Description of what it does, technologies used, and your role.
-- **[Project Name]**: Description of what it does, technologies used, and your role.
+- **High Availability Web Application Migration to AWS**: This name encapsulates the primary goals and tasks of the project, including the migration of the MySQL database and PHP website to AWS, and ensuring high availability and scalability through AWS Auto Scaling and related services.
+
 
 ### 📚 Education & Certifications
 - **AWS Certified Solutions Architect**
-- **DevOps Certification from [Institution Name]**
+- **DevOps Certification from Intellipaat**
 - **AWS Training from Intellipaat**
 
 ### 💬 Let's Connect
 I'm always open to discussions about cloud computing, DevOps practices, and new technologies. Feel free to reach out to me:
 
-- **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
-- **Twitter**: [Your Twitter Handle]
+- **Email**: arunclaps@gmail.com
+- **LinkedIn**:https://www.linkedin.com/in/arun-krishna-mscit2023/
+
 
 ### 📈 GitHub Stats
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
