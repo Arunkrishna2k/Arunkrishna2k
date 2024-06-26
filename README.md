@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Arun Krishna!
 
--Junior Cloud DevOps Engineer
+- Junior Cloud DevOps Engineer
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
--My expertise includes a range of AWS services such as 
+- My expertise includes a range of AWS services such as 
 EC2, RDS, VPC, S3, IAM, and EBS.
 Additionally, I have knowledge of Linux, Jenkins, and Docker.
 
