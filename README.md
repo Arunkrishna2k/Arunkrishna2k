@@ -1,31 +1,60 @@
-# 👋 Hi, I'm Arun Krishna!
 
-- Junior Cloud DevOps Engineer
+### Hi there 👋
+
+I'm Arun Krishna, an AWS Solutions Architect with a passion for cloud computing and DevOps. My journey in the tech world started as a QA Engineer, where I accumulated 1.6 years of experience. Driven by my curiosity and passion for automation and cloud infrastructure, I transitioned into the DevOps field. 
 <img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
-- My expertise includes a range of AWS services such as 
-EC2, RDS, VPC, S3, IAM, and EBS.
-Additionally, I have knowledge of Linux, Jenkins, and Docker.
+### 🔧 Skills & Expertise
+I specialize in various AWS services, including:
 
+- **Compute**: EC2, Lambda
+- **Storage**: S3, EBS, Glacier
+- **Database**: RDS, DynamoDB
+- **Networking**: VPC, Route 53, CloudFront
+- **Security**: IAM, KMS, CloudTrail
 
+Additionally, I have strong skills in:
 
-Professional Experience
+- **Operating Systems**: Linux
+- **CI/CD**: Jenkins
+- **Containerization**: Docker
 
-QA Engineer: 1.6 years of experience
+### 🌱 Currently Learning
+I'm constantly looking to expand my knowledge and currently focused on mastering:
 
-DevOps Engineer: Transitioned to a career in DevOps to leverage my passion and skills in cloud technologies
-Skills
+- **Container Orchestration**: Kubernetes
+- **Infrastructure as Code**: Terraform
 
-🌩️ AWS: EC2, RDS, VPC, S3, IAM, EBS
+### 🚀 Projects & Contributions
+I love working on projects that automate workflows and optimize cloud infrastructure. Some of my notable projects include:
 
-🐧 Linux
+- **[Project Name]**: Description of what it does, technologies used, and your role.
+- **[Project Name]**: Description of what it does, technologies used, and your role.
+- **[Project Name]**: Description of what it does, technologies used, and your role.
 
-🔧 Jenkins
+### 📚 Education & Certifications
+- **AWS Certified Solutions Architect**
+- **DevOps Certification from [Institution Name]**
+- **AWS Training from Intellipaat**
 
-🐳 Docker
+### 💬 Let's Connect
+I'm always open to discussions about cloud computing, DevOps practices, and new technologies. Feel free to reach out to me:
 
-Currently Learning
+- **Email**: [Your Email]
+- **LinkedIn**: [Your LinkedIn Profile]
+- **Twitter**: [Your Twitter Handle]
 
-☸️ Kubernetes
+### 📈 GitHub Stats
+[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-🌱 Terraform
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Blog Post Title](Link)
+- [Blog Post Title](Link)
+- [Blog Post Title](Link)
+<!-- BLOG-POST-LIST:END -->
+
+### ⚡ Fun Fact
+When I'm not immersed in the world of cloud computing, I enjoy hiking, exploring new technologies, and contributing to open-source projects.
+
+Let's build something great together!
