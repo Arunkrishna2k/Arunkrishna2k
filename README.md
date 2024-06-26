@@ -47,7 +47,7 @@ I'm always open to discussions about cloud computing, DevOps practices, and new 
 
 
 ### 📈 GitHub Stats
-[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Arunkrishna2k))
+[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Arunkrishna2k)
 
 
 
