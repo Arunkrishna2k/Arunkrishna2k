@@ -18,12 +18,14 @@ Additionally, I have strong skills in:
 - **Operating Systems**: Linux
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
+- **Testing**: Selenium, Manual Testing, Postman
 
 ### 🌱 Currently Learning
 I'm constantly looking to expand my knowledge and currently focused on mastering:
 
 - **Container Orchestration**: Kubernetes
 - **Infrastructure as Code**: Terraform
+- **Configuration Management**: Ansible
 
 ### 🚀 Projects & Contributions
 I love working on projects that automate workflows and optimize cloud infrastructure. Some of my notable projects include:
