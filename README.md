@@ -1,8 +1,9 @@
 
 ### Hi there 👋
 
-I'm Arun Krishna, an AWS Solutions Architect with a passion for cloud computing and DevOps. My journey in the tech world started as a QA Engineer, where I accumulated 1.6 years of experience. Driven by my curiosity and passion for automation and cloud infrastructure, I transitioned into the DevOps field. 
-<img align="right" width="370" height="290" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
+I'm Arun Krishna, an AWS Solutions Architect with a passion for cloud computing and DevOps. My journey in the tech world started as a QA Engineer, where I accumulated 1.6 years of experience. Driven by my curiosity and passion for automation and cloud infrastructure, I transitioned into the DevOps field.
+ 
+<img align="right" width="370" height="390" src="https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif">
 
 ### 🔧 Skills & Expertise
 I specialize in various AWS services, including:
