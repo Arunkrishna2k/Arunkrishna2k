@@ -1,4 +1,4 @@
-#👋 Hi, I'm Arun Krishna!
+# 👋 Hi, I'm Arun Krishna!
 
 I am a Junior Cloud DevOps Engineer with a background as an AWS Solutions Architect, which I learned at Intellipaat. My expertise includes a range of AWS services such as 
 EC2, RDS, VPC, S3, IAM, and EBS. Additionally, I have knowledge of Linux, Jenkins, and Docker.
