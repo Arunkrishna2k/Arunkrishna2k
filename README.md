@@ -46,12 +46,7 @@ I'm always open to discussions about cloud computing, DevOps practices, and new 
 ### 📈 GitHub Stats
 [![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
 
-### 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Blog Post Title](Link)
-- [Blog Post Title](Link)
-- [Blog Post Title](Link)
-<!-- BLOG-POST-LIST:END -->
+
 
 ### ⚡ Fun Fact
 When I'm not immersed in the world of cloud computing, I enjoy hiking, exploring new technologies, and contributing to open-source projects.
