@@ -11,10 +11,17 @@ QA Engineer: 1.6 years of experience
 
 DevOps Engineer: Transitioned to a career in DevOps to leverage my passion and skills in cloud technologies
 Skills
+
 🌩️ AWS: EC2, RDS, VPC, S3, IAM, EBS
+
 🐧 Linux
+
 🔧 Jenkins
+
 🐳 Docker
+
 Currently Learning
+
 ☸️ Kubernetes
+
 🌱 Terraform
