@@ -20,6 +20,7 @@ Additionally, I have strong skills in:
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
 - **Testing**: Selenium, Manual Testing, Postman
+- *Project Management Tools*: ClickUp, Jira, RaiseTicket
 
 ### 🌱 Currently Learning
 I'm constantly looking to expand my knowledge and currently focused on mastering:
@@ -38,6 +39,9 @@ I love working on projects that automate workflows and optimize cloud infrastruc
 - **AWS Certified Solutions Architect**
 - **DevOps Certification from Intellipaat**
 - **AWS Training from Intellipaat**
+- **Foundation Prompt Engineer by AWS**
+- **Technical Essentials by AWS**
+- **Linux Training from Intellipaat**
 
 ### 💬 Let's Connect
 I'm always open to discussions about cloud computing, DevOps practices, and new technologies. Feel free to reach out to me:
