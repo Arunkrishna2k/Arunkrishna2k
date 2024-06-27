@@ -20,7 +20,7 @@ Additionally, I have strong skills in:
 - **CI/CD**: Jenkins
 - **Containerization**: Docker
 - **Testing**: Selenium, Manual Testing, Postman
-- *Project Management Tools*: ClickUp, Jira, RaiseTicket
+- **ProjectManagementTools**: ClickUp, Jira, RaiseTicket
 
 ### 🌱 Currently Learning
 I'm constantly looking to expand my knowledge and currently focused on mastering:
@@ -48,12 +48,6 @@ I'm always open to discussions about cloud computing, DevOps practices, and new 
 
 - **Email**: arunclaps@gmail.com
 - **LinkedIn**:https://www.linkedin.com/in/arun-krishna-mscit2023/
-
-
-### 📈 GitHub Stats
-[![Arun's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/Arunkrishna2k)
-
-
 
 ### ⚡ Fun Fact
 When I'm not immersed in the world of cloud computing, I enjoy hiking, exploring new technologies, and contributing to open-source projects.
